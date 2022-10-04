@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="codegym_module3_14.2_quadratic-equation-2:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/codegym_module3_14_2_quadratic_equation_2_jar2</output-path>
+    <root id="archive" name="codegym_module3_14.2_quadratic-equation-2.jar">
+      <element id="module-output" name="codegym_module3_14.2_quadratic-equation-2" />
+    </root>
+  </artifact>
+</component>
